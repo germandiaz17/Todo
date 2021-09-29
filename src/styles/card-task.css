@@ -1,0 +1,49 @@
+.card-content {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.text-complete {
+    font-weight: 400;
+}
+
+.card-content button {
+    width: 20%;
+}
+
+.text-delete {
+    font-weight: 400;
+    text-decoration: line-through;
+}
+
+.btn-complete {
+    color: #fffbff;
+    background-color: rgb(25, 121, 25);
+    border: 0;
+}
+
+.btn-complete:hover {
+    background-color: rgb(55, 146, 55);
+}
+
+.btn-marked {
+    color: #fffbff;
+    background-color: goldenrod;
+    border: 0;
+}
+
+.btn-marked:hover {
+    background-color: rgb(219, 179, 76);
+}
+
+.btn-delete {
+    color: #fffbff;
+    background-color: rgb(177, 29, 29);
+    border: 0;
+}
+
+.btn-delete:hover {
+    background-color: rgb(187, 56, 56);
+}

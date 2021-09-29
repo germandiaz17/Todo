@@ -1,0 +1,14 @@
+.home-content {
+    background-color: #fffbff;
+    width: 30%;
+    height: 80vh;
+    border-radius: 5px;
+    overflow: auto;
+    font-size: small;
+    padding: 0% 1.5%;
+}
+
+.form-content {
+    display: flex;
+    justify-content: center;
+}

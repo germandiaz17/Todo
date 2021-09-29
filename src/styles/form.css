@@ -1,0 +1,17 @@
+form {
+    width: 100%;
+}
+
+.input-task {
+    border: 1px solid #d5cbff;
+    padding: 5px;
+    width: 80%;
+}
+
+.btn-action {
+    border: 1px solid #d5cbff;
+    padding: 5px;
+    background-color: #0077ff;
+    color: #fffbff;
+    width: 17%;
+}
